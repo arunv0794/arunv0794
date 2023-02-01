@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Web Developer.
 - 👀 I’m interested in learning new skills.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate...
 - 📫 How to reach me arunv079@gmail.com
 
